@@ -2,11 +2,9 @@
 
 ## 🚀 QA Automation Engineer | Playwright | Selenium | Python | API Testing | AWS Certified | AI-Assisted Testing
 
-Welcome to my GitHub!
+Passionate QA Automation Engineer with 5+ years of experience building scalable automation frameworks for Web, Mobile, and API testing.
 
-I'm a QA Automation Engineer with 5+ years of experience in Manual Testing, Automation Testing, API Testing, Mobile Testing, and AI-assisted testing.
-
-Currently working on enterprise applications while continuously improving my expertise in modern automation frameworks.
+Specialized in Playwright, Selenium, Python, REST API Testing, and AI-assisted testing. Currently expanding my expertise in DevOps, Cloud (AWS), GitHub Actions, Docker, and Generative AI.
 
 ---
 
@@ -24,6 +22,14 @@ Currently working on enterprise applications while continuously improving my exp
 
 ---
 
+## 📊 GitHub Stats
+
+* 📈 GitHub Stats
+* 🔥 Contribution Streak
+* 💻 Most Used Languages
+* 🏆 GitHub Trophies
+* 👀 Visitor Counter
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,61 +46,41 @@ Currently working on enterprise applications while continuously improving my exp
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### Languages
-- Java
-- Python
-- JavaScript
-
-### Automation
-- Playwright
-- Selenium
-- TestNG
-- Cucumber BDD
-- Pytest
-
-### API Testing
-- Postman
-- REST Assured
-
-### CI/CD
-- Jenkins
-- Git
-- GitHub
-- Maven
-
-### Project Management
-- Jira
-- Agile Scrum
-
 ---
 
 ## 📂 Featured Projects
 
 ### 🎭 Crowley Playwright Framework
-Python + Playwright + Pytest + Page Object Model
+Enterprise-grade automation framework using Playwright, Python, Pytest, Page Object Model, Logging, Reporting and GitHub.
 
 ### 🧪 Cypress Automation Framework
-JavaScript + Cypress + Mocha + Page Object Model
+End-to-end automation using Cypress, JavaScript, Mocha and Page Object Model.
 
 ### 📱 Android Sample Project
-Android Studio application
+Android Studio sample application demonstrating mobile development fundamentals.
 
 ---
 
 ## 📜 Certifications
 
-🏅 AWS Certified
+🏅 AWS Solutions Architect (MicroDegree)
+📚 DevOps Course Completed (MicroDegree)
+🤖 Generative AI Learning 
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Playwright
-- Python Automation
-- GitHub Actions
-- Docker
-- AI Testing
-- Generative AI
+• Advanced Playwright Automation
+• Python Design Patterns
+• GitHub Actions
+• Docker
+• Kubernetes
+• AWS DevOps
+• CI/CD Pipeline Automation
+• AI-assisted Testing
+• Generative AI for Software Testing
+• MCP & AI Automation Agents
 
 ---
 
@@ -108,4 +94,8 @@ Android Studio application
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my GitHub!
+
+I'm always interested in collaborating on QA Automation, Playwright, AI-assisted Testing, and DevOps projects.
+
+Let's build something amazing together! 🚀
