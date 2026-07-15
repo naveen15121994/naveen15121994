@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naveen Kumar C R
 
-## 🚀 🚀 QA Automation Engineer | Playwright | Selenium | Python | API Testing | AWS Certified | AI-Assisted Testing
+## 🚀 QA Automation Engineer | Playwright | Selenium | Python | API Testing | AWS Certified | AI-Assisted Testing
 
 Welcome to my GitHub!
 
